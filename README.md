@@ -69,6 +69,6 @@ HTML, CSS e JavaScript (módulos ES), [MediaPipe Tasks Vision](https://developer
 
 [Escolher licença, por exemplo MIT]
 
-## Autores
+## Autores: Alexandre Gomes, Denys Smalets e  Pedro Firmnino
 
 [Nomes dos autores]
