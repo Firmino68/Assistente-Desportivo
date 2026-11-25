@@ -65,9 +65,7 @@ HTML, CSS e JavaScript (módulos ES), [MediaPipe Tasks Vision](https://developer
 5. Testes com vários utilizadores e revisão dos limiares por um treinador ou fisioterapeuta.
 6. Histórico de sessões (opcional).
 
-## Licença
 
-[Escolher licença, por exemplo MIT]
 
 
 
